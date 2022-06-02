@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dishant</h1>
 <h3 align="center">A passionate Full-Stack developer from Himachal Pradesh,India</h3>
-<p align="center"><img alt="Welcome" width="700" height="300" src="https://github.com/dishantrana1999/dishantrana1999/blob/main/assests/coding.gif" /></p>
+<p align="center"><img alt="Welcome" width="700" height="300" src="https://github.com/dishant-rana/dishant-rana/blob/main/assests/coding.gif" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishantrana1999&label=Profile%20views&color=0e75b6&style=flat" alt="dishantrana1999" /> </p>
@@ -31,7 +31,7 @@
 
 | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dishantrana1999&show_icons=true&theme=dark&title_color=ffffff&text_color=5274ff&cache_seconds=1800&locale=en" alt="dishantrana1999" /></p> | <p>&nbsp;<a href="#no_route"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantrana1999&layout=compact&theme=dark" /></a></p> |
 | -- | --- |
-| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishantrana1999&theme=dark" alt="dishantrana1999" /></p> |  <p><img src="https://github.com/dishantrana1999/dishantrana1999/blob/main/assests/csgo.gif" width="350" align="center"></p>
+| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishantrana1999&theme=dark" alt="dishantrana1999" /></p> |  <p><img src="https://github.com/dishant-rana/dishant-rana/blob/main/assests/cs-go.gif" width="350" align="center"></p>
   ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
