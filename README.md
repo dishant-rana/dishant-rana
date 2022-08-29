@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Dishant</h1>
+<h1align="center">Hi 👋, I'm Dishant</h1>
 <h3 align="center">A passionate Full-Stack developer from Himachal Pradesh,India</h3>
 <p align="center"><img alt="Welcome" width="700" height="300" src="https://github.com/dishant-rana/dishant-rana/blob/main/assests/coding.gif" /></p>
 
