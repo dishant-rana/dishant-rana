@@ -9,7 +9,7 @@
 <p align="center">An optimistic fun loving guy who likes to work in an challenging environment. Looking for a career that demands the best of my professional ability in terms of technical and analytical skills, and helps me in broadening and enhancing my current skill and knowledge. I am capable of developing websites using React.js & other well-known web development technologies</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishant-rana&label=Profile%20views&color=0e75b6&style=flat" alt="dishantrana1999" /> </p>
 
-- 🌱 I’m currently learning **Node.js and MongoDB**
+- 🌱 I’m currently working on **Node.js and Postgres**
 
 - 👨‍💻 All of my projects are available at my Portfolio [https://dishant-rana.github.io/](https://dishant-rana.github.io/)
 
